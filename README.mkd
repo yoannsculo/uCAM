@@ -1,0 +1,17 @@
+uCAM
+----
+
+uCAM is a library for the μCAM (microCAM) Serial JPEG Camera of 4D Systems
+This is a C implementation for Linux, based on specifications from 4D Systems
+
+The work *is in progress* and not yet fully working.
+
+License
+-------
+
+I haven't decided which license I should use yet.
+
+Contact
+-------
+
+Yoann Sculo - <yoann.sculo@gmail.com>
