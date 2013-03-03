@@ -6,10 +6,20 @@ This is a C implementation for Linux, based on specifications from 4D Systems
 
 The work *is in progress* and not yet fully working.
 
+This project is abandonned since for me the Hardware is not stable and reliable.
+Sometimes it wants to sync, sometimes it doesn't... I really don't get it.
+I guess it could come from the ucam it self. I suppose it may be faulty.
+
+Anyway, I'm not willing to spend more time on this erratic behaviour, it's not
+really worth it. So, the code works ... some times long hours in a row ... some
+times it doesn't anymore. However I hope my work could help someone. And if you
+ever find a fix or understand those sync problems, I'm interested ;)
+
 License
 -------
 
-I haven't decided which license I should use yet.
+Licensed under the terms of the MIT License (MIT)
+See the file COPYING for details.
 
 Contact
 -------
