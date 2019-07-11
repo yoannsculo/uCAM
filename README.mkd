@@ -4,7 +4,7 @@ uCAM
 uCAM is a library for the μCAM (microCAM) Serial JPEG Camera of 4D Systems
 This is a C implementation for Linux, based on specifications from 4D Systems
 
-This project is abandonned because for me the hardware is not stable and fully
+This project is abandoned because for me the hardware is not stable and fully
 reliable. Sometimes it wants to sync, sometimes it doesn't... I really don't get
 it. I guess it could come from the ucam it self. I suppose it mays be faulty.
 
